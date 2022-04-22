@@ -1,0 +1,16 @@
+header {
+    display: flex;
+    border: 1px solid black;
+}
+
+li {
+    display: inline-block;
+    margin: 5px;
+}
+
+.brand-logo {
+    height: 140px;
+    border: solid 1px black;
+    display: inline-block;
+    margin-left: 9px;
+}
